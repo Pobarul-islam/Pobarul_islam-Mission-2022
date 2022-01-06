@@ -12,7 +12,7 @@ h1 {
 .section1_mission-2022 {
   display: flex;
   height: 620px;
-  margin-top: 3%;
+  margin-top: 2%;
 }
 .mission-text {
   margin-left: 10%;
@@ -56,13 +56,13 @@ h1 {
 }
 .box-style{
     border-radius: 3px;
-    margin-left: 2%;
+margin-left: 20px;
 
   
 }
 .mission {
   background-color: rgba(244, 165, 96, 0.425);
-  width: 90%;
+  
   padding: 2px 5px;
   border-radius: 3px;
   
@@ -74,7 +74,7 @@ h1 {
 }
 .vission {
   background-color: rgba(250, 128, 114, 0.384);
-  width: 90%;
+
   padding: 2px 5px;
   border-radius: 3px;
 }
@@ -83,7 +83,7 @@ h1 {
 
 }
 .goals {
-  width: 90%;
+
   background-color: rgba(255, 192, 203, 0.384);
   padding: 2px 5px;
   border-radius: 3px;
@@ -97,3 +97,23 @@ h1 {
 
 /* Section No-3 Develop section */
 
+.develop-section{
+   
+    margin-top: 10%; 
+    display: flex;
+   
+}
+
+.develop-img{
+    width: 50%;
+}
+.develop-img img{
+    width:70% ;
+    margin-left: 20%;
+}
+.develop-text{
+    width: 40%; 
+}
+.develop-text h1{
+    font-size: 50px;
+}
