@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Mission-2022 Section */
+h1 {
+  font-size: 60px;
+  font-family: "Roboto Mono", monospace;
+  height: 35px;
+}
+.mission-2022 {
+  display: flex;
+}
+.mission-text {
+  width: 90%;
+  margin-left: 10%;
+}
+.mission-img img {
+  width: 45%;
+  margin-left: 40%;
+}
+.mission-2022-orange {
+  color: orange;
+}
+#border-color{
+ border-left: 4px solid red;
+ height: 35%;
+ 
+}
+.explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    color:white;
+    font-weight: 700px;
+    padding: 5px 20px;
+    border-radius: 2px x;
+}
+.scroll-text{
+    margin-top: 10%;
+}
