@@ -4,7 +4,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-/* Mission-2022 Section */
+/* section-1 mission-2022 */
 h1 {
   font-size: 60px;
   font-family: "Roboto Mono", monospace;
@@ -42,7 +42,7 @@ h1 {
   margin-top: 5%;
 }
 
-/* My-Mission in-2022 Section  */
+/* Section-2 My-Mission in-2022  */
 
 .section2_my-mission {
   display: flex;
@@ -137,4 +137,13 @@ width: 80%;
   width: 70%;
   height: 70%;
   margin-left: 30%;
+}
+
+/* Footer Section */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+   
 }
