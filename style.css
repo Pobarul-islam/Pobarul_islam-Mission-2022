@@ -16,6 +16,7 @@ h1 {
 }
 .mission-text {
   margin-left: 10%;
+  margin-top: 5%;
 }
 .mission-img img {
   width: 45%;
@@ -103,11 +104,37 @@ h1 {
   width: 40%;
   margin-left: 4%;
 }
-.develop-text h1 {
-  font-size: 50px;
+.develop-text2 h2 {
+  font-size: 30px;
 }
-.develop-text2 {
+.develop-text2{
   width: 40%;
-  margin-left: 4%;
+  margin-left: 8%;
+  margin-top: 3%;
+ 
 }
 
+/* Section no-5 Corona app */
+.corona-section {
+  margin-top: 10%;
+}
+.corona-content {
+  display: flex;
+}
+.corona-heading h1 {
+  font-size: 40px;
+  text-align: center;
+}
+.corona-text {
+margin-left: 10%;
+width: 80%;
+}
+.corona-text h1 {
+  font-size: 50px;
+}
+
+.corona-img img {
+  width: 70%;
+  height: 70%;
+  margin-left: 30%;
+}
