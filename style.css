@@ -31,11 +31,11 @@ h1 {
 }
 .explore-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, red);
+  background-image: linear-gradient(orange, tomato);
   color: white;
   font-weight: 700px;
-  padding: 5px 20px;
-  border-radius: 2px x;
+  padding: 8px 20px;
+  border-radius: 5px;
 }
 .scroll-text {
   margin-top: 5%;
@@ -54,23 +54,18 @@ h1 {
 .color-2022 {
   color: orangered;
 }
-.box-style{
-    border-radius: 3px;
-margin-left: 20px;
-
-  
+.box-style {
+  border-radius: 3px;
+  margin-left: 20px;
 }
 .mission {
   background-color: rgba(244, 165, 96, 0.425);
-  
+
   padding: 2px 5px;
   border-radius: 3px;
-  
-
 }
 .mission img {
   width: 30%;
- 
 }
 .vission {
   background-color: rgba(250, 128, 114, 0.384);
@@ -80,40 +75,39 @@ margin-left: 20px;
 }
 .vission img {
   width: 30%;
-
 }
 .goals {
-
   background-color: rgba(255, 192, 203, 0.384);
   padding: 2px 5px;
   border-radius: 3px;
-
-  
 }
 .goals img {
   width: 30%;
-
 }
 
 /* Section No-3 Develop section */
 
-.develop-section{
-   
-    margin-top: 10%; 
-    display: flex;
-   
+.develop-section {
+  margin-top: 10%;
+  display: flex;
 }
 
-.develop-img{
-    width: 50%;
+.develop-img {
+  width: 50%;
 }
-.develop-img img{
-    width:70% ;
-    margin-left: 20%;
+.develop-img img {
+  width: 70%;
+  margin-left: 20%;
 }
-.develop-text{
-    width: 40%; 
+.develop-text {
+  width: 40%;
+  margin-left: 4%;
 }
-.develop-text h1{
-    font-size: 50px;
+.develop-text h1 {
+  font-size: 50px;
 }
+.develop-text2 {
+  width: 40%;
+  margin-left: 4%;
+}
+
