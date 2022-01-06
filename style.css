@@ -154,4 +154,8 @@ footer {
 }
 .footer-text-color {
   color: orangered;
+  font-family: 'Playfair Display', serif;
+}
+.missionh2{
+    font-family: 'Playfair Display', serif;
 }
