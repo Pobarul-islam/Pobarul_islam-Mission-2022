@@ -24,19 +24,20 @@ h1 {
 .mission-2022-orange {
   color: orange;
 }
-#border-color{
- border-left: 4px solid red;
- height: 35%;
- 
+#border-color {
+  border-left: 4px solid red;
+  height: 35%;
+  margin-top: 5%;
+  padding-left: 10px;
 }
-.explore-button{
-    text-decoration: none;
-    background-image: linear-gradient(orange,red);
-    color:white;
-    font-weight: 700px;
-    padding: 5px 20px;
-    border-radius: 2px x;
+.explore-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  color: white;
+  font-weight: 700px;
+  padding: 5px 20px;
+  border-radius: 2px x;
 }
-.scroll-text{
-    margin-top: 10%;
+.scroll-text {
+  margin-top: 10%;
 }
